@@ -24,7 +24,7 @@ body {
   padding-top: 64px;
 }
 #plane {
-  background-image: url(./img/flakon.png);
+  background-image: url(img/flakon.png);
   display: grid;
   width: 288px;
   height: 538px;
@@ -55,7 +55,7 @@ body {
   width: 306px;
   height: 228px;
   background-size: 306px;
-  background-image: url(./img/score.png);
+  background-image: url(img/score.png);
 }
 #points>div:first-child{
     padding-top: 90px;
@@ -70,17 +70,17 @@ body {
   width: 315px;
   height: 288px;
   background-size: 315px;
-  background-image: url(./img/lupa.png);
+  background-image: url(img/lupa.png);
   position: relative;
 }
 #doctor {
-  background-image: url(./img/dr.png);
+  background-image: url(img/dr.png);
   width: 198px;
   height: 195px;
   background-size: 198px;
 }
 #info {
-  background-image: url(./img/info.png);
+  background-image: url(img/info.png);
   width: 258px;
   height: 300px;
   background-size: 258px;
