@@ -714,7 +714,7 @@ function displayEnd(state) {
         endGameBox.style.left = "40vw"
         endGameBox.style.backgroundImage = "url(img/sc.png)"
     } else {
-        endGameBox.style.left = "420px"
+        endGameBox.style.left = "42vw"
         endGameBox.style.display = "block"
         endGameBox.style.width = "334px"
         endGameBox.style.height = "119px"
