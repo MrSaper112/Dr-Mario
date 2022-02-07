@@ -5,10 +5,15 @@
 
 Download repo and run index.html or open [LIVE](https://htmlpreview.github.io/?https://github.com/MrSaper112/Dr-Mario/blob/main/index.html)
 ## How to move pills
+
 S, ArrowDown => Move Down
+
 A, ArrowLeft => Move Left
+
 D, ArrowRight => Move Right
+
 W, ArrowUp => Turn Left
+
 Shift => Turn Right
 
 ## Technologies
