@@ -5,11 +5,12 @@ function init() {
     virusMovementManager.init()
     timerStart();
 }
-function onLoadBody() {
-    pointManager.init()
+window.addEventListener('DOMContentLoaded', (event) => {
+    console.log('DOM fully loaded and parsed');
+     pointManager.init()
     blockManager.nextColor.next()
     blockManager.nextColor.appendPreview()
-}
+});
 var mainPlane = document.getElementById("plane")
 var count = 0
 var backgroundPillManager = {
